@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this volume, please cite it as below."
+type: generic
+title: "The Scientific Arc of Man's Evolution from the Big Bang to the Human Genome"
+version: "332"
+doi: 10.5281/zenodo.23827226
+authors:
+  - family-names: Berger
+    given-names: John Allen
+    affiliation: NovagonDNA
+abstract: >-
+  One arc from the Big Bang to the human genome, described at three layers at
+  every stage: the chemical, the biological, and the informational genetic.
+  Sulfur and oxygen are treated as a conjugate pair, and inosine as damage the
+  cell took up and made into an instrument for reading the code. The unit
+  throughout is the nucleotide.
+keywords:
+  - inosine
+  - xanthine
+  - nucleotide
+  - genetic code
+  - wobble position 34
+  - ADAR
+  - RNA editing
+  - tRNA
+  - aminoacyl-tRNA synthetase
+  - 2-thiouridine
+  - sulfur biochemistry
+  - CHNOPS
+  - S-adenosylmethionine
+  - acetyl-CoA
+  - iron-sulfur cluster
+  - cysteine desulfurase
+  - selenocysteine
+  - orotate
+  - dihydroorotate dehydrogenase
+  - UMP synthase
+  - central dogma
+  - ATP synthase
+  - telomere attrition
+  - origin of life
+  - thioester world
+  - serpentinization
+  - Lost City hydrothermal field
+  - Berger Triplex
+  - NovagonDNA
+license: CC-BY-NC-ND-4.0
+date-released: 2026-10-30
+url: "https://doi.org/10.5281/zenodo.23827226"
