@@ -1,8 +1,10 @@
 # The Scientific Arc of Man's Evolution from the Big Bang to the Human Genome
 
-**Dr. John Allen Berger, PhD · NovagonDNA · Naperville, Illinois**
+**John Allen Berger, Ph.D · NovagonDNA · Naperville, Illinois**
 
-Version 332 · 3,543 pages · 2,680 numbered sections · 143,720 internal links
+Version 333 · 3,557 pages · 2,680 numbered sections · 143,720 internal links
+
+Version 333 adds the Berger Scientific Connectome as the appendix, at page 3544.
 
 **Read or download the volume:** [https://doi.org/10.5281/zenodo.23827226](https://doi.org/10.5281/zenodo.23827226)
 

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this volume, please cite it as below."
 type: generic
 title: "The Scientific Arc of Man's Evolution from the Big Bang to the Human Genome"
-version: "332"
+version: "333"
 doi: 10.5281/zenodo.23827226
 authors:
   - family-names: Berger
@@ -45,5 +45,5 @@ keywords:
   - Berger Triplex
   - NovagonDNA
 license: CC-BY-NC-ND-4.0
-date-released: 2026-10-30
+date-released: 2026-11-01
 url: "https://doi.org/10.5281/zenodo.23827226"
